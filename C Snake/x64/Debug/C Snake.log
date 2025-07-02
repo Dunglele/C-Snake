@@ -1,0 +1,3 @@
+﻿  C Snake.cpp
+C:\Users\DELL XEON\source\repos\C Snake\C Snake.cpp(70,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C Snake.vcxproj -> C:\Users\DELL XEON\source\repos\C Snake\x64\Debug\C Snake.exe
